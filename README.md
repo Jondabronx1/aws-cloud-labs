@@ -50,8 +50,6 @@ An AWS Lambda function writes items to a DynamoDB table, demonstrating serverles
 
 📂 [View Lab 2](./lab2_dynamodb_lambda)
 
-=======
-
 ## 🎯 Purpose
 
 This repository serves as a **cloud engineering portfolio** to demonstrate practical AWS experience to recruiters and hiring managers.
