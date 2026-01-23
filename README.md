@@ -50,6 +50,26 @@ An AWS Lambda function writes items to a DynamoDB table, demonstrating serverles
 
 📂 [View Lab 2](./lab2_dynamodb_lambda)
 
+---
+
+### 🧪 Lab 3: API Gateway to DynamoDB
+
+**Description:**  
+An API Gateway HTTP API triggers a Lambda function that writes data to a DynamoDB table, demonstrating a serverless REST-style backend.
+
+**Services Used:**
+
+- Amazon API Gateway (HTTP API)
+- AWS Lambda
+- Amazon DynamoDB
+- IAM
+- CloudWatch
+- Python
+
+📂 View Lab 3
+
+---
+
 ## 🎯 Purpose
 
 This repository serves as a **cloud engineering portfolio** to demonstrate practical AWS experience to recruiters and hiring managers.
