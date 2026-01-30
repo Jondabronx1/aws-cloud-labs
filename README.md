@@ -70,6 +70,44 @@ An API Gateway HTTP API triggers a Lambda function that writes data to a DynamoD
 
 ---
 
+### 🧪 Lab 4: Terraform Application Load Balancer Architecture
+
+**Description:**  
+Provisioned a highly available web application infrastructure using Terraform. This lab deploys a custom VPC, public subnets across multiple Availability Zones, EC2 instances running Apache, and an Application Load Balancer distributing traffic across targets.
+
+This project demonstrates Infrastructure as Code (IaC), AWS networking, and scalable web architecture design.
+
+**Services Used:**
+
+- Amazon VPC
+- Subnets (Multi-AZ)
+- Internet Gateway
+- Route Tables
+- EC2
+- Application Load Balancer (ALB)
+- Target Groups
+- Security Groups
+- S3
+- Terraform
+
+📂 [View Lab 4](./lab4_terraform_alb)
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Serverless architecture
+- Event-driven design
+- IAM roles and permissions
+- AWS logging and monitoring
+- Python for cloud automation
+- Infrastructure as Code (Terraform)
+- AWS networking architecture
+- Load balancing and high availability
+- Multi-instance deployment
+- Security group design
+- Cloud architecture diagramming
+
 ## 🎯 Purpose
 
 This repository serves as a **cloud engineering portfolio** to demonstrate practical AWS experience to recruiters and hiring managers.
